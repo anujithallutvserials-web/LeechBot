@@ -30,7 +30,6 @@ RUN apt-get update && \
         ffmpeg \
         aria2 \
         p7zip-full \
-        unrar \
         unzip \
         python3-libtorrent \
         curl \
